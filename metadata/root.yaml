@@ -1,0 +1,27 @@
+prometheus:
+  display_name: Prometheus
+  description: Power your metrics and alerting with a leading open-source monitoring
+    solution.
+  logo: prometheus/logo.svg
+  category: monitoring
+  overview: prometheus/overview.md
+  resources:
+    provider:
+      title: Prometheus
+      link: https://prometheus.io
+    links:
+      - type: resources
+        title: Tutorials
+        link: https://prometheus.io/docs/prometheus/latest/getting_started/
+      - type: resources
+        title: Documentation
+        link: https://prometheus.io/docs/introduction/overview/
+      - type: release_notes
+        title: Release Notes
+        link: https://github.com/prometheus/prometheus/releases/tag/v2.9.1
+      - type: release_notes
+        title: Change Log
+        link: https://github.com/prometheus/prometheus/releases/tag/v2.9.1
+      - type: support
+        title: Submit a Support Request
+        link: https://d2iq.com/services-and-support
