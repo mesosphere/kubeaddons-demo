@@ -1,10 +1,9 @@
-prometheus:
-  display_name: Prometheus
-  description: Power your metrics and alerting with a leading open-source monitoring
-    solution.
-  logo: prometheus/logo.svg
+helloworld:
+  display_name: Hello World
+  description: Hello world is a new addon that has prometheus fake data.
+  logo: helloworld/logo.svg
   category: monitoring
-  overview: prometheus/overview.md
+  overview: helloworld/overview.md
   resources:
     provider:
       title: Prometheus
