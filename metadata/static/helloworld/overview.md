@@ -1,5 +1,7 @@
 ## Overview
-Prometheus, a [Cloud Native Computing Foundation](https://cncf.io/) project, is a systems and service monitoring system. It collects metrics
+Hello World, a fake [Cloud Native Computing Foundation](https://cncf.io/) project that looks like prometheus.
+
+It is a systems and service monitoring system. It collects metrics
 from configured targets at given intervals, evaluates rule expressions,
 displays the results, and can trigger alerts if some condition is observed
 to be true.
