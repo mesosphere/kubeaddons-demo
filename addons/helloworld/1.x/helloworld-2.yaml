@@ -10,6 +10,7 @@ metadata:
 spec:
   kubernetes:
     minSupportedVersion: v1.16.0
+    maxSupportedVersion: v1.20.0
   namespace: kubeaddons
   chartReference:
     chart: helloworld

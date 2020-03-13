@@ -6,7 +6,7 @@ metadata:
   labels:
     kubeaddons.mesosphere.io/name: helloworld
   annotations:
-    catalog.kubeaddons.mesosphere.io/addon-revision: "1.0.0-3"
+    catalog.kubeaddons.mesosphere.io/addon-revision: "1.0.0-4"
 spec:
   kubernetes:
     minSupportedVersion: v1.16.0
